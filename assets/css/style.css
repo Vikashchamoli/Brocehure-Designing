@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ *
  */
  :root {
   --hs: 225, 100%;
@@ -391,7 +391,8 @@ body {
 .hero-title { margin-block: 12px 8px; }
 
 .hero-text { font-size: var(--fs-5);
-  font-weight: bolder; }
+  font-weight: bolder;
+color:white;}
 
 .hero .btn {
   margin-inline: auto;
